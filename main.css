@@ -1,0 +1,175 @@
+/*გლობალური კლასები*/
+
+.font-nunito {
+	font-family: 'Nunito Sans';
+}
+
+.font-montserrat {
+	font-family: 'Montserrat';
+}
+
+.font-nunito-bold {
+	font-family: 'Nunito Sans';
+}
+
+#overflow {
+	overflow-x: hidden;
+}
+
+/*გლობალური კლასები*/
+
+
+/*ჰედერი*/
+
+header {
+	background-color: #fff;
+	color: #191919;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #191919;
+	border-bottom: 1px solid white;
+	height: 100px;
+}
+
+header ul {
+	position: relative;
+	left: 1195px;
+	bottom: 15px;
+}
+
+
+header li {
+	display: inline-block;
+	padding-right: 40px;
+}
+
+#logo {
+	width: 31px;
+	height: 25px;
+	margin-left: 97px;
+	margin-top: 38px;
+}
+
+#contact {
+	color: #10C9C3;
+}
+
+/*ჰედერი*/
+
+/*მეინ*/
+
+#main {
+	background-color: #F5F5F5;
+	padding-bottom: 70px;
+}
+
+
+.div1 {
+	width: 40%;
+	padding: 100px 0px 170px 100px;
+	display: inline-block;
+}
+
+.text-info {
+	font-size: 16px;
+	line-height: 24px;
+	color: #787878;
+	padding-right: 130px;
+}
+
+#h1 {
+	font-size: 30px;
+	padding-bottom: 40px;
+	color: #333;
+}
+
+span {
+	color: #333;
+	font-weight: bold;
+}
+
+.div2 {
+	display: inline-block;
+	position: relative;
+	bottom: -120px;
+}
+
+.borders {
+	border: 1px solid white;
+}
+
+#fname {
+	width: 380px;
+	height: 50px;
+	size: 15px;
+	margin-right: 35px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+}
+
+#email {
+	width: 380px;
+	height: 50px;
+	size: 15px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+}
+
+#title {
+	width: 800px;
+	height: 50px;
+	size: 15px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+}
+
+#comment {
+	width: 800px;
+	height: 220px;
+	size: 15px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+
+#message {
+	background-color: #10C9C3;
+	color: #fff;
+	border: none;
+	width: 180px;
+	height: 50px;
+}
+
+#message:focus {
+	outline: none;
+}
+
+#message:hover {
+	background-color: #fff;
+	color: #10C9C3;
+}
+
+/*მეინ*/
+
+/*ფუტერი*/
+
+footer {
+	background-color: #141414;
+	height: 230px;
+	padding-left: 100px;
+	padding-top: 70px;
+}
+
+#inc {
+	color: #fff;
+	font-size: 18px;
+
+}
+
+#piroll {
+	color: #BCBCBC;
+	size: 15px;
+	line-height: 24px;
+}
+
+/*ფუტერი*/
